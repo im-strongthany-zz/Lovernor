@@ -1,3 +1,10 @@
-# Linux-CPU-governor-script
+Linux_CPU_Governor
 Bash script that changes the cpu governor.
-Starting small with just running it each time you want to change, plans to build up to an automatic state after I get better at scripting.
+Can switch between Powersave and Performance.
+Provides feedback on sucsuess.
+
+
+SETUP
+  1: Download shell file.
+  2: run "chmod 700" on the file to make it executable.
+  3: execute the file.
